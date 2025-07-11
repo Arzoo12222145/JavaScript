@@ -50,19 +50,22 @@
 
 //Stack(Primitive data types) | Heap(Non Primitive data types)
 
-let myname = "arzoo"
+// let myname = "arzoo"
 
-let anothername = myname
-anothername = "bhuker"
+// let anothername = myname
+// anothername = "bhuker"
 
-console.log(myname);
-console.log(anothername);
+// console.log(myname);
+// console.log(anothername);
 
 
-let userOne = {
-    name : "arzuu",
-    email: "abc@ybl"
-}
+// let userOne = {
+//     name : "arzuu",
+//     email: "abc@ybl"
+// }
 
-let user = userOne.email;
-console.log(user);
+// let user = userOne.email;
+// console.log(user);
+
+
+
